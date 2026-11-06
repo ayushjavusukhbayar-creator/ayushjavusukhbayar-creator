@@ -1,22 +1,28 @@
 # Hi, I'm Ayush 👋
 
-### SDET | 8 years of experience | Master of Computer Science student
+### Software Development Engineer in Test | Computer Science & AI student
 
-I'm a Software Development Engineer in Test with 8 years of experience helping teams deliver reliable software. I care about building effective test strategies, creating useful automation, and giving teams fast, actionable feedback throughout development.
+I'm an SDET with eight years of experience helping teams build reliable software across finance, banking, and logistics. My work spans test strategy, automation, and web and API testing. I enjoy collaborating with developers to find problems early and make releases more dependable.
 
-I'm currently pursuing a **Master of Computer Science**, continuing to grow my knowledge of computer science and apply it to real-world engineering challenges.
+I'm pursuing an online **Master of Science in Computer Science & AI at Boston University**. My goal is to build on my quality engineering background with deeper computer science and AI knowledge, and apply what I learn to practical QA challenges.
 
-### Areas I work in
+## Technical background and interests
 
-- Software quality engineering and test strategy
-- Automated testing and test framework design
-- API, UI, integration, and end-to-end testing
-- Regression testing and continuous quality improvement
-- Collaborating with engineering teams to prevent defects and improve release confidence
+- **Test automation:** Playwright, Selenium WebDriver, Java, Cucumber, JUnit, and test framework design
+- **Quality engineering:** UI, API, integration, regression, smoke, and end-to-end testing
+- **Tools and practices:** REST Assured, Postman, SQL, Git, Jenkins, CI/CD, and Agile collaboration
+- **AI for QA:** Using agentic AI to support quality engineering work and exploring how AI can improve testing workflows
 
-### Currently learning
+## What I'm working toward
 
-- Master of Computer Science
-- New approaches to software testing, automation, and reliable systems
+- Deepen my understanding of computer science and artificial intelligence through graduate study.
+- Strengthen Playwright automation and develop maintainable, effective tests.
+- Explore responsible ways to use AI agents to assist QA work while keeping human review and software quality at the center.
+- Grow as an engineer who combines software testing experience with AI-informed problem-solving.
 
-I'm always glad to connect with people who are passionate about building dependable software.
+## Projects and learning
+
+- [Assignment-1](https://github.com/ayushjavusukhbayar-creator/Assignment-1) explores how a C program becomes a running process.
+- [BU Bootcamp](https://github.com/ayushjavusukhbayar-creator/bu-bootcamp) contains work related to the foundations bootcamp for BU Online AI Programs.
+
+I welcome conversations about software quality, test automation, and AI-assisted engineering.
